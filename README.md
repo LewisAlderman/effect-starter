@@ -1,9 +1,3 @@
-# advent-of-effect
-
-Follows the Advent of ~~Code~~ Effect event.
-
-https://adventofeffect.com/
-
 ## Setting up the environment
 	
 References https://www.effect.solutions/quick-start.
